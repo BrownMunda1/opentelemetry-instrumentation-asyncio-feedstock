@@ -9,6 +9,10 @@ Package license: Apache-2.0
 
 Summary: OpenTelemetry instrumentation for asyncio
 
+Development: https://github.com/open-telemetry/opentelemetry-python-contrib
+
+OpenTelemetry instrumentation for asyncio
+
 Current build status
 ====================
 
